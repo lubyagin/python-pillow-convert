@@ -1,0 +1,11 @@
+python-image-convert-pillow, Example for convert images by Python Pillow module
+
+Пример использования Pillow для преобразования изображений на Python под Windows.
+Раньше (в 2006-2007 годах) вместо Pillow использовалась оригинальная библиотека PIL.
+
+Ссылки
+[1] Домашняя страница проекта Pillow: http://python-pillow.github.io/
+[2] Бинарные сборки модуля для Windows здесь: http://www.lfd.uci.edu/~gohlke/pythonlibs/
+[3] Примеры использования:
+    http://habrahabr.ru/sandbox/59849/
+    http://pillow.readthedocs.org/en/latest/handbook/tutorial.html
