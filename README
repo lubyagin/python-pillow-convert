@@ -9,3 +9,5 @@ python-image-convert-pillow, Example for convert images by Python Pillow module
 [3] Примеры использования:
     http://habrahabr.ru/sandbox/59849/
     http://pillow.readthedocs.org/en/latest/handbook/tutorial.html
+    http://stackoverflow.com/questions/10269099/pil-convert-gif-frames-to-jpg
+    (title: Convert GIF Frames to JPG)
