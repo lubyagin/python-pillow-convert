@@ -18,8 +18,7 @@ C:\Python27\Scripts\pip2.7.exe install Pillow
 
 See also
 http://stackoverflow.com/questions/10759117/converting-jpg-images-to-png
-```
+
 import Image
 im = Image.open('Foto.jpg')
 im.save('Foto.png')
-```
